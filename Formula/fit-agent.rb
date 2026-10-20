@@ -1,8 +1,6 @@
 class FitAgent < Formula
   desc "Sync an agent-friendly fitness workspace with Intervals.icu"
   homepage "https://github.com/jogvan-k/fit-agent"
-  version "0.1.0"
-
   on_macos do
     if Hardware::CPU.arm?
       url "https://github.com/jogvan-k/fit-agent/releases/download/v0.1.0/fit-agent_v0.1.0_darwin_arm64.tar.gz"
