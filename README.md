@@ -5,7 +5,7 @@ Formulae published by [Jogvan Kjølbro](https://github.com/jogvan-k).
 ## Install FitAgent
 
 ```sh
-brew tap Harrington-bot/tap
+brew tap jogvan-k/tap
 brew install fit-agent
 ```
 
